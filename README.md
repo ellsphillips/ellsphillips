@@ -35,5 +35,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellsphillips&theme=react&show_icons=true&locale=en&layout=compact&card_width=100%" alt="ellsphillips-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellsphillips&theme=react&show_icons=true&locale=en&card_width=100%" alt="ellsphillips-stats" />
 </p>
